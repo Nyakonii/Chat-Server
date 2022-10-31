@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SocketFun/1.0.0": {
+        "dependencies": {
+          "LiteNetLib": "1.0.0-rc.3"
+        },
+        "runtime": {
+          "SocketFun.dll": {}
+        }
+      },
+      "LiteNetLib/1.0.0-rc.3": {
+        "runtime": {
+          "lib/net6.0/LiteNetLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketFun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteNetLib/1.0.0-rc.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0lz0CifP1Ym+6F6+dDnr9mC8qCbXYP6ADKcYmG3+hxSxXW5MqEmfhoxdYSwgqciExIdIwzA+xGed244tdnvXfA==",
+      "path": "litenetlib/1.0.0-rc.3",
+      "hashPath": "litenetlib.1.0.0-rc.3.nupkg.sha512"
+    }
+  }
+}

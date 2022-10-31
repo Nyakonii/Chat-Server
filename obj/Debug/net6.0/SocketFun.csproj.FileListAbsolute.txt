@@ -1,0 +1,17 @@
+C:\Users\sk8ca\RiderProjects\SocketFun\bin\Debug\net6.0\SocketFun.exe
+C:\Users\sk8ca\RiderProjects\SocketFun\bin\Debug\net6.0\SocketFun.deps.json
+C:\Users\sk8ca\RiderProjects\SocketFun\bin\Debug\net6.0\SocketFun.runtimeconfig.json
+C:\Users\sk8ca\RiderProjects\SocketFun\bin\Debug\net6.0\SocketFun.dll
+C:\Users\sk8ca\RiderProjects\SocketFun\bin\Debug\net6.0\SocketFun.pdb
+C:\Users\sk8ca\RiderProjects\SocketFun\bin\Debug\net6.0\LiteNetLib.dll
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.csproj.AssemblyReference.cache
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.AssemblyInfoInputs.cache
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.AssemblyInfo.cs
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.csproj.CoreCompileInputs.cache
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.csproj.CopyComplete
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.dll
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\refint\SocketFun.dll
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.pdb
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\SocketFun.genruntimeconfig.cache
+C:\Users\sk8ca\RiderProjects\SocketFun\obj\Debug\net6.0\ref\SocketFun.dll
